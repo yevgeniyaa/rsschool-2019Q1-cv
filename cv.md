@@ -1,7 +1,3 @@
-Что должно содержать в себе резюме Junior разработчика?
- 
-! Важно: по-возможности составлять резюме на английском
-
 1. Fakename Fakesurname
 2. email: fake@mail.ru, mobile: +7 701 123 45 67
 3. Software Test Automation Engineer with 5+ years of experience. Experienced with Java+Selenium WebDriver utilized for test automation, creation of test framework. Experienced with JS+Jasmine+NodeJS utilized for implementing back-end tests. Participated more than 3 projects as a test automation engineer and functional tester. Ability to work collaboratively within a team as a member and a leader.
