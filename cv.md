@@ -25,6 +25,6 @@
         - WebStorm, SQL Server Management Studio, NodeJS, GIT, NPM
         - JS, Jasmine, ES6 Promises
 7. Education:
-    - Master: L.N.Gumilyov Eurasian National University, 
-    - Degree (diploma): Bachelor: L.N.Gumilyov Eurasian National University, Information Technologies
+    - Master: L.N.Gumilyov Eurasian National University, Information Technologies
+    - Bachelor: L.N.Gumilyov Eurasian National University, Information Technologies
 8. English level: B2
