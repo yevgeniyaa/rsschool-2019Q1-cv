@@ -2,16 +2,33 @@
  
 ! Важно: по-возможности составлять резюме на английском
 
-1. Имя, фамилия (реальные)
-2. Контакты (желательно несколько)
-3. Summary (цель, пожелания, раскрыть, что важно, что хочется и почему. 
-Некий вариант самопрезентации. Когда опыта минимум, джун продает свой потенциал, 
-свое желание и способность быстро учиться. Не занимать позицию, что он придет, 
-и все кинутся его учить. Но обратное – у джуна время все брать, отовсюду, всегда и т.д.).
-4. Skills (например: языки программирования, фреймворки, методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
-Круто, если это будет со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.)
+1. Fakename Fakesurname
+2. email: fake@mail.ru, mobile: +7 701 123 45 67
+3. Software Test Automation Engineer with 5+ years of experience. Experienced with Java+Selenium WebDriver utilized for test automation, creation of test framework. Experienced with JS+Jasmine+NodeJS utilized for implementing back-end tests. Participated more than 3 projects as a test automation engineer and functional tester. Ability to work collaboratively within a team as a member and a leader.
+4. Skills:
+    - Software Development Methodologies: SCRUM, Kanban
+    - Development languages: Java, JS
+    - IDE: IntelliJ IDEA, IntelliJ WebStorm
+    - VCS: Git, GitHub, BitBucket, TortoiseSVN
+    - CI: Jenkins, Bamboo CI
+    - Testing Frameworks: Selenium WebDriver, TestNG, Jasmine, Jest
+    - Construction Languages: SQL
+    - XML Protocols and Standards: XPath (XML Path Language)
+    - API Testing Tools: SoapUI
+    - Building Tools: Maven, Gulp
+5. Code samples can be found in GitHub account.
+6. Experience:
+    - Apr-2016 - Till now (Mar-2019) - Test Automation Engineer, EPAM Systems
+    - Team Size: 5 developers, 4 test automation engineers
+    - Tasks performed:
+        - Implementing of back-end tests on JS framework
+        - Refactoring and fixing of existing tests
+        - Communication with Customer on a daily basis for getting test data and clarifications regarding tested functionality
+    - Environment:
+        - MS SQL
+        - WebStorm, SQL Server Management Studio, NodeJS, GIT, NPM
+        - JS, Jasmine, ES6 Promises
+7. Education:
+    - Master: L.N.Gumilyov Eurasian National University, 
+    - Degree (diploma): Bachelor: L.N.Gumilyov Eurasian National University, Information Technologies
+8. English level: B2
